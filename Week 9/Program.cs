@@ -16,7 +16,7 @@ namespace Week_9
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Lab9());
+            Application.Run(new CalculatorButtonTableLab9());
         }
     }
 }
